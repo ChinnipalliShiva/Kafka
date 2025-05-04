@@ -1,0 +1,22 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinnipalliShiva/Kafka.git"
+  },
+  "author": "Chinnipalli Shiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinnipalliShiva/Kafka/issues"
+  },
+  "homepage": "https://github.com/ChinnipalliShiva/Kafka#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
